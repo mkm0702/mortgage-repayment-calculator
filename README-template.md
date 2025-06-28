@@ -31,7 +31,7 @@ Users should be able to:
 
 ![](./image.png)
 
-- Solution URL: [Github](https://your-solution-url.com)
+- Solution URL: [Github](https://github.com/mkm0702/mortgage-repayment-calculator)
 - Live Site URL: [Netlify](https://your-live-site-url.com)
 
 ## My process
