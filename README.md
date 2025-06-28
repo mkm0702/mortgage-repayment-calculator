@@ -32,7 +32,7 @@ Users should be able to:
 ![](./image.png)
 
 - Solution URL: [Github](https://github.com/mkm0702/mortgage-repayment-calculator)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Live Site URL: [Netlify](https://mortgage-payment-calculator-sol.netlify.app/)
 
 ## My process
 
